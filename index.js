@@ -1,4 +1,4 @@
-function happyHolidays(string)
+function happyHolidays()
 {
   if (string === "Happy Holidays")
   {
